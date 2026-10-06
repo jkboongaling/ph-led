@@ -1,0 +1,12 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# OS files
+desktop.ini
+
+# Temporary files
+*.tmp
+*.log
